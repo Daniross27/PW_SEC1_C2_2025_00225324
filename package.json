@@ -1,0 +1,27 @@
+{
+  "name": "pw_sec1_c2_2025_00225324",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniross27/PW_SEC1_C2_2025_00225324.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniross27/PW_SEC1_C2_2025_00225324/issues"
+  },
+  "homepage": "https://github.com/Daniross27/PW_SEC1_C2_2025_00225324#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
